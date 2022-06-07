@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE Productos SYSTEM "Productos.dtd">
+<!--<Productos xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="Productos.xsd">-->
+<Productos>
+    <Producto>
+        <Raton>
+            <Codigo>#ABC696S</Codigo>
+        </Raton>
+    </Producto>
+
+    <Producto>
+        <Teclado>
+            <Codigo>#BX99S58WE</Codigo>
+            <Nombre>Teclado Gaming</Nombre>
+        </Teclado>
+    </Producto>
+</Productos>
